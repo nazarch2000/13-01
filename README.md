@@ -63,6 +63,8 @@ PORT     STATE SERVICE     VERSION
 ```
 
 - Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
+```
+https://www.exploit-db.com/exploits/45939 + нашел [статью как это реализовать](https://litl-admin.ru/xaking/ssh-perechislenie-polzovatelej-s-posleduyushhim-pereborom.html)
   
 *Приведите ответ в свободной форме.*  
 
